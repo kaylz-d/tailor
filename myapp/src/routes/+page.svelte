@@ -2,7 +2,14 @@
 	let seeMobileWarning = $state(true);
 </script>
 
-<div class="p-8 md:p-0 min-h-screen w-full overflow-hidden bg-[#ffcbdc] text-center font-[Urbanist]">
+<style>
+    .custom-cursor {
+        cursor: url('https://cdn.hackclub.com/019efb24-f90a-73d6-9c25-73f74ea1b908/tailor_cursor_1idk.png'), auto;
+    }
+
+</style>
+
+<div class="custom-cursor p-8 md:p-0 min-h-screen w-full overflow-hidden bg-[#ffcbdc] text-center font-[Urbanist]">
 	<div class="md:grid md:grid-cols-[60%_40%] w-full h-auto">
 		<!-- left column -->
         <div>
@@ -26,11 +33,12 @@
 							<img
 								src="https://cdn.hackclub.com/019ef80a-a0fc-7fe0-ac3a-fbaaaf6700b0/tailor_title.png"
 								alt="Tailor YSWS"
-								class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 scroll-title my-4 h-[60%] w-auto object-contain md:block z-10 scale-80"
+								id="tailor-title"
+                                class="hover:animate-[focus_0.2s_ease-in-out] absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 scroll-title my-4 h-[60%] w-auto object-contain md:block z-10 scale-80"
 							/>
 						</div>
 						<p class="z-20 black text-lg bg-[#FEF7F9] w-full p-2 border-3 border-black">
-							you ship a dress up game: we ship sewing materials + steam grants!
+							you ship a dress up game: we ship you fabrics + a sewing machine!
 						</p>
 					</div>
 				</div>
@@ -38,8 +46,9 @@
 				<a href="https://hackclub.com/"
 					><img
 						src="https://cdn.hackclub.com/019ef82a-1631-740e-9947-d1c2a2d6cd5a/tailortag.png"
-						alt="Hack Club flag that links to Hack Club website"
-						class="fixed top-0 left-0 w-auto max-h-[20%] md:max-h-[30%]"
+						alt="Hack Club tag that links to Hack Club website"
+						id="hc-tag"
+                        class="fixed top-0 left-0 w-auto max-h-[20%] md:max-h-[30%]"
 					/></a
 				>
 			</div>
@@ -64,15 +73,28 @@
 		</div>
 		<!-- right side -->
         <div class="bg-[#474243] text-white flex flex-col justify-center items-center gap-12">
-			<a href="#" class="text-9xl hover:text-[#F3CCE4] hover:underline hover:decoration-dotted hover:decoration-8">submit here idk</a>
+			<a href="#" class="text-8xl hover:text-[#F3CCE4] hover:underline hover:decoration-dotted hover:decoration-8">submit here<span class="text-4xl align-middle">↗</span></a>
+            
+            <p>ENDS JULY 8</p>
+            
             <div>
                 <p class="font-bold">GUIDELINES HELLO<span class="text-[#ffa5dd]">?</span></p>
-                <p>haiii lol</p>
+                <p>track coding hours with <a class="text-[#ffa5dd] hover:underline hover:decoration-dotted" href="https://hackatime.hackclub.com/">Hackatime</a></p>
+                <p></p>
+                <p>track art hours with <a class="text-[#ffa5dd] hover:underline hover:decoration-dotted" href="https://lapse.hackclub.com/">Lapse</a> • art up to 30% of total hours</p>
+                <p><span class="text-[#F3CCE4]">NO AI ART</span> • up to 30% of code can be AI-generated.</p>
+                <p>only for teens 13-18</p>
             </div>
             <div>
                 <p class="font-bold">PRIZES<span class="text-[#ffa5dd]">!</span></p>
                 <!-- <p>8 hours • sewing kit and then 20 hours: steam grant</p> -->
-                 <p>budget budget budget</p>
+                 <p><span class="text-[#F3CCE4]">3 hours</span> = limited edition stickerpack!</p>
+                 <p>★ <span class="text-[#F3CCE4]">8 hours</span> = sewing kit</p>
+                 <p><span class="text-[#F3CCE4]">5-10 hours</span> = grant to buy fabrics</p>
+                 <p>★ 40 hours = <a class="text-[#ffa5dd] hover:underline hover:decoration-dotted" href="https://www.amazon.com/Brother-XR3774-Full-Featured-Quilting-Instructional/dp/B00MNS60AQ?th=1">sewing machine</a> OR game console grant</p>
+            </div>
+            <div>
+                <p>Questions? Ask kaylee@hackclub.com</p>
             </div>
             <img class="px-12 max-w-full h-auto object-contain" src="https://cdn.hackclub.com/019efa6b-4eea-7acd-bc8c-8b09834ce8f8/Made%20With%20Love_texture_text.png" alt="frosty-textured text that reads Made With Love">
 		</div>
