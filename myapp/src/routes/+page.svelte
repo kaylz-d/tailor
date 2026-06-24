@@ -2,7 +2,7 @@
 	let seeMobileWarning = $state(true);
 </script>
 
-<div class="min-h-screen w-full overflow-hidden bg-[#ffcbdc] text-center font-[Urbanist]">
+<div class="p-8 md:p-0 min-h-screen w-full overflow-hidden bg-[#ffcbdc] text-center font-[Urbanist]">
 	<div class="md:grid md:grid-cols-[60%_40%] w-full h-auto">
 		<!-- left column -->
         <div>
@@ -64,9 +64,17 @@
 		</div>
 		<!-- right side -->
         <div class="bg-[#474243] text-white flex flex-col justify-center items-center gap-12">
-			<a href="#" class="text-9xl hover:text-[#F3CCE4]">submit here idk</a>
-            <p>BRO HELLO?</p>
-            <p>GUIDELINES</p>
+			<a href="#" class="text-9xl hover:text-[#F3CCE4] hover:underline hover:decoration-dotted hover:decoration-8">submit here idk</a>
+            <div>
+                <p class="font-bold">GUIDELINES HELLO<span class="text-[#ffa5dd]">?</span></p>
+                <p>haiii lol</p>
+            </div>
+            <div>
+                <p class="font-bold">PRIZES<span class="text-[#ffa5dd]">!</span></p>
+                <!-- <p>8 hours • sewing kit and then 20 hours: steam grant</p> -->
+                 <p>budget budget budget</p>
+            </div>
+            <img class="px-12 max-w-full h-auto object-contain" src="https://cdn.hackclub.com/019efa6b-4eea-7acd-bc8c-8b09834ce8f8/Made%20With%20Love_texture_text.png" alt="frosty-textured text that reads Made With Love">
 		</div>
 	</div>
 </div>
