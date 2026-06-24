@@ -20,7 +20,7 @@
 					class="relative inset-0 flex h-screen w-full flex-col items-center justify-center bg-cover bg-center"
 				>
 					<div
-						class="absolute top-1/2 left-1/2 w-full max-w-[80vh] -translate-x-1/2 -translate-y-1/2 inline-flex m-auto z-0 object-cover flex-col items-center justify-center"
+						class="absolute top-1/2 left-1/2 w-full max-w-[90vh] -translate-x-1/2 -translate-y-1/2 inline-flex m-auto z-0 object-cover flex-col items-center justify-center"
 					>
 						<div id="window-container" class="inline-flex relative">
 							<!-- window pic -->
@@ -38,7 +38,7 @@
 							/>
 						</div>
 						<p class="z-20 black text-lg bg-[#FEF7F9] w-full p-2 border-3 border-black">
-							you ship a dress up game: we ship you fabrics + a sewing machine!
+							you ship a dress up game, we ship you a sewing machine to make the fits irl!
 						</p>
 					</div>
 				</div>
@@ -73,7 +73,7 @@
 		</div>
 		<!-- right side -->
         <div class="bg-[#474243] text-white flex flex-col justify-center items-center gap-12">
-			<a href="#" class="text-8xl hover:text-[#F3CCE4] hover:underline hover:decoration-dotted hover:decoration-8">submit here<span class="text-4xl align-middle">↗</span></a>
+			<a href="https://forms.hackclub.com/t/bg2eBwEGuvus" class="text-8xl hover:text-[#F3CCE4] hover:underline hover:decoration-dotted hover:decoration-8">submit here<span class="text-4xl align-middle">↗</span></a>
             
             <p>ENDS JULY 8</p>
             
@@ -83,6 +83,7 @@
                 <p></p>
                 <p>track art hours with <a class="text-[#ffa5dd] hover:underline hover:decoration-dotted" href="https://lapse.hackclub.com/">Lapse</a> • art up to 30% of total hours</p>
                 <p><span class="text-[#F3CCE4]">NO AI ART</span> • up to 30% of code can be AI-generated.</p>
+                <p>must have <a class="text-[#ffa5dd] hover:underline hover:decoration-dotted" href="https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories/">GitHub repository</a> with readme</p>
                 <p>only for teens 13-18</p>
             </div>
             <div>
