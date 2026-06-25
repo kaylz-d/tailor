@@ -91,8 +91,8 @@
                 <!-- <p>8 hours • sewing kit and then 20 hours: steam grant</p> -->
                  <p><span class="text-[#F3CCE4]">3 hours</span> = limited edition stickerpack!</p>
                  <p>★ <span class="text-[#F3CCE4]">8 hours</span> = sewing kit</p>
-                 <p><span class="text-[#F3CCE4]">5-10 hours</span> = grant to buy fabrics</p>
                  <p>★ 40 hours = <a class="text-[#ffa5dd] hover:underline hover:decoration-dotted" href="https://www.amazon.com/Brother-XR3774-Full-Featured-Quilting-Instructional/dp/B00MNS60AQ?th=1">sewing machine</a> OR game console grant</p>
+                 <p><span class="text-[#F3CCE4]">$2.5 USD/hour</span> = stackable grant to buy fabrics, charms, and buttons!</p>
             </div>
             <div>
                 <p>Questions? Ask kaylee@hackclub.com</p>
