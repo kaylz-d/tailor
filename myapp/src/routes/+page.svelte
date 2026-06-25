@@ -83,7 +83,7 @@
                 <p></p>
                 <p>track art hours with <a class="text-[#ffa5dd] hover:underline hover:decoration-dotted" href="https://lapse.hackclub.com/">Lapse</a> • art up to 30% of total hours</p>
                 <p><span class="text-[#F3CCE4]">NO AI ART</span> • up to 30% of code can be AI-generated.</p>
-                <p>must have <a class="text-[#ffa5dd] hover:underline hover:decoration-dotted" href="https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories/">GitHub repository</a> with readme</p>
+                <p>must have <a class="text-[#ffa5dd] hover:underline hover:decoration-dotted" href="https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories/">GitHub repository</a> with readme + <a class="text-[#ffa5dd] hover:underline hover:decoration-dotted" href="https://itch.io/docs/creators/getting-started">itch.io</a> demo link</p>
                 <p>only for teens 13-18</p>
             </div>
             <div>
