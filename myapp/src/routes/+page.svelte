@@ -90,12 +90,12 @@
                 <p class="font-bold">PRIZES<span class="text-[#ffa5dd]">!</span></p>
                 <!-- <p>8 hours • sewing kit and then 20 hours: steam grant</p> -->
                  <p><span class="text-[#F3CCE4]">3 hours</span> = limited edition stickerpack!</p>
-                 <p>★ <span class="text-[#F3CCE4]">8 hours</span> = sewing kit</p>
+                 <p>★ <span class="text-[#F3CCE4]">8 hours (11 total hours after stickers)</span> = sewing kit</p>
                  <p>★ 40 hours = <a class="text-[#ffa5dd] hover:underline hover:decoration-dotted" href="https://www.amazon.com/Brother-XR3774-Full-Featured-Quilting-Instructional/dp/B00MNS60AQ?th=1">sewing machine</a> OR game console grant</p>
                  <p><span class="text-[#F3CCE4]">$2.5 USD/hour</span> = stackable grant to buy fabrics, charms, and buttons!</p>
             </div>
             <div>
-                <p>Questions? Ask kaylee@hackclub.com</p>
+                <p>Questions? Ask kaylee@hackclub.com or in <a class="text-[#ffa5dd] hover:underline hover:decoration-dotted" href="https://hackclub.enterprise.slack.com/archives/C0BCDN149RD">#tailor-ysws</a></p>
             </div>
             <img class="px-12 max-w-full h-auto object-contain" src="https://cdn.hackclub.com/019efa6b-4eea-7acd-bc8c-8b09834ce8f8/Made%20With%20Love_texture_text.png" alt="frosty-textured text that reads Made With Love">
 		</div>
